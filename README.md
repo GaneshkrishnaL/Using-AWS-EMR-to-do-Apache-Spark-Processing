@@ -35,7 +35,7 @@ Sure, here are the steps written in the past tense as if you had already perform
    - **Key Pair:** I created and downloaded a key pair for SSH access to the cluster nodes.
 
 8. **Created an S3 Bucket:**
-   - **Bucket Name:** I created a bucket to store my input data and output results (e.g., `emr-master-class-code-with-you`).
+   - **Bucket Name:** I created a bucket to store my input data and output results (e.g., `emr-master-class-s3bucket`).
 
 9. **Configured Cluster Logging and Monitoring:**
    - **Cluster Logs:** I enabled logging to monitor cluster activity and troubleshoot issues.
