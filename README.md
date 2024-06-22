@@ -64,4 +64,69 @@ Sure, here are the steps written in the past tense as if you had already perform
 15. **Verified Job Execution:**
     - I checked the output in the specified S3 bucket to ensure the job ran successfully.
     - I monitored job status and logs via the EMR console and Spark history server.
+![Screenshot 2024-06-22 113157](https://github.com/GaneshkrishnaL/Using-AWS-EMR-to-do-Apache-Spark-Processing/assets/92093823/d411d97b-5b17-48e4-bca1-484c53300fdf)
+
+
+
+![Screenshot 2024-06-22 134535](https://github.com/GaneshkrishnaL/Using-AWS-EMR-to-do-Apache-Spark-Processing/assets/92093823/ed67e206-ab91-4e76-9e7f-3e4e3a4490df)
+
+
+![Screenshot 2024-06-22 135425](https://github.com/GaneshkrishnaL/Using-AWS-EMR-to-do-Apache-Spark-Processing/assets/92093823/561cf204-b8fa-44f4-8fa1-2502510738fa)
+
+
+![Screenshot 2024-06-22 135918](https://github.com/GaneshkrishnaL/Using-AWS-EMR-to-do-Apache-Spark-Processing/assets/92093823/9f1a1fd6-0eaf-467c-ad15-aac8425e2ca9)
+![Screenshot 2024-06-22 140137](https://github.com/GaneshkrishnaL/Using-AWS-EMR-to-do-Apache-Spark-Processing/assets/92093823/585fd59a-d3ce-4b30-83c7-d7a4ed7df03d)
+![Screenshot 2024-06-22 142501](https://github.com/GaneshkrishnaL/Using-AWS-EMR-to-do-Apache-Spark-Processing/assets/92093823/5ca1248a-7584-48ab-8506-d57db989a761)
+![Screenshot 2024-06-22 143424](https://github.com/GaneshkrishnaL/Using-AWS-EMR-to-do-Apache-Spark-Processing/assets/92093823/14fc2fb0-9381-4b6b-8d7a-b91fde09fba5)
+
+![Screenshot 2024-06-22 143900](https://github.com/GaneshkrishnaL/Using-AWS-EMR-to-do-Apache-Spark-Processing/assets/92093823/464dc91f-7608-4329-b005-a58281c69af6)
+
+
+
+![Screenshot 2024-06-22 150318](https://github.com/GaneshkrishnaL/Using-AWS-EMR-to-do-Apache-Spark-Processing/assets/92093823/74f79a88-566a-4002-bd33-a9599bf0d7e1)
+
+
+![Screenshot 2024-06-22 150336](https://github.com/GaneshkrishnaL/Using-AWS-EMR-to-do-Apache-Spark-Processing/assets/92093823/64c7ace3-f7db-4440-acba-9a24481a7899)
+
+![Screenshot 2024-06-22 150408](https://github.com/GaneshkrishnaL/Using-AWS-EMR-to-do-Apache-Spark-Processing/assets/92093823/60394eed-ff7f-4a04-8197-3e4b9dbc1c9f)
+
+![Screenshot 2024-06-22 150738](https://github.com/GaneshkrishnaL/Using-AWS-EMR-to-do-Apache-Spark-Processing/assets/92093823/50da70e0-e9ef-477e-9e7b-6c2ad23c99f4)
+
+![Screenshot 2024-06-22 151041](https://github.com/GaneshkrishnaL/Using-AWS-EMR-to-do-Apache-Spark-Processing/assets/92093823/5a224c24-c4ab-4e9e-b07d-02277db56540)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
